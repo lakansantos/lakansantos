@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakansantos
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently studying JavaScript
 
 
 <!---

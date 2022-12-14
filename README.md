@@ -1,6 +1,6 @@
 
 # HELLO!
-## I am Lakan Santos, a self-taught web developer that is enthusiast to learn new things. I love to create projects using JavaScript and turn your design ideas into reality. 
+### I am Lakan Santos, a self-taught web developer that is enthusiast to learn new things. I love to create projects using JavaScript and turn your design ideas into reality. 
 
 # SKILLS
 * JAVASCRIPT

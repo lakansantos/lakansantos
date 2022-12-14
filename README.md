@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @lakansantos
+
+# HELLO!
+- 👋 I’m @lakansantos
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently studying JavaScript
 

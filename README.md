@@ -1,8 +1,6 @@
 
 # HELLO!
-- 👋 I’m @lakansantos
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently studying JavaScript
+## I am Lakan Santos, a self-taught web developer that is enthusiast to learn new things. I love to create projects using JavaScript and turn your design ideas into reality. 
 
 # SKILLS
 * JAVASCRIPT

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently studying JavaScript
 
-#SKILLS
+# SKILLS
 * JAVASCRIPT
 * HTML
 * CSS

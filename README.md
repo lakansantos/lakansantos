@@ -1,6 +1,6 @@
 
 # HELLO!
-#### I am Lakan Santos, I am a web developer that specializes in Front-End Web Development. I love to create websites and bring ideas to the web. I am currently studying JavaScript and its framework ReactJS. Let's work together to bring your dream project to the web! 
+#### I am Lakan Santos, I am a web developer that specializes in Front-End Web Development. I love to create websites and bring ideas to the web. Let's work together to bring your dream project to the web! 
 # 
 
 

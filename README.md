@@ -1,10 +1,10 @@
 
 # HELLO!
-#### I am Lakan Santos, I am a web developer that specializes in Front-End Web Development. I love to create websites and bring ideas to the web. Let's work together to bring your dream project to the web! 
+I am Lakan Santos, I am a web developer that specializes in Front-End Web Development. I love to create websites and bring ideas to the web. Let's work together to bring your dream project to the web! 
 # 
 
 
-# Technologies I am using recently
+#Technologies I am using recently
 
 <img src="https://github.com/lakansantos/images/blob/main/html.png" width="5%" height="5%" display="inline-block"><img src="https://github.com/lakansantos/images/blob/main/css-3.png" width="5%" height="5%" display="inline-block"><img src="https://github.com/lakansantos/images/blob/main/js.png" width="5%" height="5%" display="inline-block"><img src="https://github.com/lakansantos/images/blob/main/icons8-mongodb-48.png" width="5%" height="5%" display="inline-block"><img src="https://github.com/lakansantos/images/blob/main/icons8-node-js-48.png" width="5%" height="5%" display="inline-block"><img src="https://github.com/lakansantos/images/blob/main/reactJS.png" width="5%" height="5%" display="inline-block"><img src="https://github.com/lakansantos/images/blob/main/tailwind.png" width="5%" height="5%" display="inline-block">
 

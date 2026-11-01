@@ -9,7 +9,7 @@ I am Lakan Santos, I am a web developer that specializes in Front-End Web Develo
 
 
 
-### Here's the link of my portfolio [lakansantos.vercel.app](https://lakansantos.vercel.app)
+### Here's the link of my portfolio [lakansantos.vercel.com](https://lakansantos.com)
 
 <!---
 lakansantos/lakansantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

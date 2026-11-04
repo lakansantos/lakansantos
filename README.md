@@ -14,47 +14,33 @@ Next.js · Supabase · TypeScript · AI-augmented workflows
 
 ---
 
-## About me
+## 👋 About me
 
-I build web apps end to end, from the database schema and auth rules to the UI. I've been shipping production sites for 3+ years.
+I am a full stack AI/software engineer with 3+ years of experience building websites.
 
-- 🏢 **Now:** building a multi-tenant business SaaS (finance, CRM, contracts, VAT, procurement) on Next.js and Supabase
-- 🧱 Built its tenant admin platform from scratch, with tenant data kept separate by Supabase Row-Level Security
-- 🤖 I use Claude Code every day for planning, writing and reviewing code
-- 🎬 On the side: scroll-driven 3D websites and code-driven video with Remotion
-- 🌏 Based in Manila (GMT+8), with working hours that overlap APAC and Europe
+## 💻 Tech Stack:
 
-## Tech stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,mui,html,css,vite" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,express,mongodb" />
-
-**Motion, 3D & Video**
-
-<img src="https://skillicons.dev/icons?i=threejs" />&nbsp;
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" height="48" />&nbsp;
-<img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge" height="48" />
-
-**AI & Tools**
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
-
-## Featured projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| **[Trakis](https://trakis.vercel.app)** | Fitness tracker with calendar logging, streaks, charts and a Year-in-Review | Next.js · Supabase · Recharts |
-| **[Quizap](https://quizap-santos.vercel.app)** · [code](https://github.com/lakansantos/Quizap) | Quiz app with a real-time leaderboard | Next.js · Supabase · TypeScript |
-| **[Coco Jam](https://coco-jam.vercel.app)** | Scroll-driven 3D product film for a homemade jam brand | Three.js · GSAP · Lenis · Vite |
-| **[Nimelist](https://nimelist.vercel.app)** · [code](https://github.com/lakansantos/nimelist) | Anime browser with search, details pages and a personal watchlist | Next.js · TypeScript · Tailwind |
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <div align="center">
 

@@ -7,7 +7,7 @@
 Next.js · Supabase · TypeScript · AI-augmented workflows
 
 <a href="https://lakansantos.com"><img src="https://img.shields.io/badge/Portfolio-lakansantos.com-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/lakan-santos"><img src="https://img.shields.io/badge/LinkedIn-lakan--santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lakan-santos"><img src="https://img.shields.io/badge/LinkedIn-lakan--santos-0A66C2?style=for-the-badge" /></a>
 <a href="mailto:lakancsantos@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>

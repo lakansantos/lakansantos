@@ -20,7 +20,7 @@ I'm Lakan Santos, a full-stack web developer from Manila. I build web apps end t
 <p>
   <img src="https://skillicons.dev/icons?i=threejs" />
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" height="48" />
-  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge" height="48" />
 </p>
 
 **AI & Automation**
